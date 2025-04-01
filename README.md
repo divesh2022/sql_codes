@@ -73,4 +73,3 @@ Thanks to everyone who has contributed to this project!
 
 ---
 
-This README provides an overview of the repository, instructions for getting started, contribution guidelines, and other relevant information. Make sure to update any sections as needed to fit the specifics of your repository.
