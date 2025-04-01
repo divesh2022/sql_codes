@@ -1,0 +1,6 @@
+log_id,log_time,log_message,old_value,new_value,table_name,column_name,operation_type
+1,0x000000000000659F,INSERT operation performed on Student table,NULL,"Student_Id: 11, Name: Priya Malhotra",Student,NULL,INSERT
+2,0x00000000000065A6,UPDATE operation performed on Student table,"Student_Id: 1, Name: Aarav Sharma","Student_Id: 1, Name: Aarav Kumar",Student,NULL,UPDATE
+3,0x00000000000065A7,UPDATE operation performed on Student table,"Student_Id: 2, Name: Meera Singh","Student_Id: 2, Name: Meera Singh",Student,NULL,UPDATE
+4,0x00000000000065A8,UPDATE operation performed on Student table,"Student_Id: 3, Name: Rohan Gupta","Student_Id: 3, Name: Rohan Malhotra",Student,NULL,UPDATE
+5,0x00000000000065A9,UPDATE operation performed on Student table,"Student_Id: 4, Name: Isha Patel","Student_Id: 4, Name: Isha Patel",Student,NULL,UPDATE
